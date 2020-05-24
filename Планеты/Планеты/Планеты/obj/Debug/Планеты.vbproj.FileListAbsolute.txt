@@ -1,0 +1,16 @@
+D:\Планеты\Планеты\Планеты\bin\Debug\Planets.accdb
+D:\Планеты\Планеты\Планеты\bin\Debug\Планеты.exe.config
+D:\Планеты\Планеты\Планеты\bin\Debug\Планеты.exe
+D:\Планеты\Планеты\Планеты\bin\Debug\Планеты.pdb
+D:\Планеты\Планеты\Планеты\bin\Debug\Планеты.xml
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.vbprojAssemblyReference.cache
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.Form1.resources
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.Resources.resources
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.vbproj.GenerateResource.cache
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.vbproj.CoreCompileInputs.cache
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.exe
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.xml
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.pdb
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.Form2.resources
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.Form3.resources
+D:\Планеты\Планеты\Планеты\obj\Debug\Планеты.Form4.resources
